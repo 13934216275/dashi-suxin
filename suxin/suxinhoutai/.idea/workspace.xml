@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5a23cf2-693b-453d-98f8-ad6385308401" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>layui-header</find>
+      <find>sc</find>
+      <find>mnb</find>
+      <find>tableone</find>
+      <find>idTest</find>
+      <find>tu</find>
+      <find>ku</find>
+      <find>bh</find>
+      <find>.kua</find>
+      <find>kuai</find>
+      <find>tiao</find>
+      <find>biaozhi</find>
+      <find>biao</find>
+      <find>add</find>
+      <find>buju p</find>
+      <find>kua</find>
+      <find>sou</find>
+      <find>nei</find>
+    </findStrings>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1bX4vBvkkS9lwrSkVFWXTozRvy8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\suxinhoutai\home\suxin" />
+      <recent name="C:\wamp64\www\suxinhoutai\home" />
+      <recent name="C:\wamp64\www\suxinhoutai\asset\home" />
+      <recent name="C:\wamp64\www\suxinhoutai\admin\lunbotu" />
+      <recent name="C:\wamp64\www\suxinhoutai\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\suxinhoutai\asset\home" />
+      <recent name="C:\wamp64\www\suxinhoutai\admin\lunbotu" />
+      <recent name="C:\wamp64\www\suxinhoutai\admin\daohan" />
+      <recent name="C:\wamp64\www\suxinhoutai\config" />
+      <recent name="C:\wamp64\www\suxinhoutai\admin\guanli" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5a23cf2-693b-453d-98f8-ad6385308401" name="Default Changelist" comment="" />
+      <created>1557888991058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557888991058</updated>
+      <workItem from="1557888992828" duration="3630000" />
+      <workItem from="1557895501429" duration="169000" />
+      <workItem from="1557898551637" duration="4000" />
+      <workItem from="1557905571931" duration="12756000" />
+      <workItem from="1557926332678" duration="6679000" />
+      <workItem from="1557965476129" duration="17182000" />
+      <workItem from="1558052385459" duration="34733000" />
+      <workItem from="1558169586471" duration="3443000" />
+      <workItem from="1558250141289" duration="11020000" />
+      <workItem from="1558311650109" duration="32003000" />
+      <workItem from="1558356651213" duration="716000" />
+      <workItem from="1558399364182" duration="27019000" />
+      <workItem from="1558447794669" duration="3255000" />
+      <workItem from="1558486187384" duration="36376000" />
+      <workItem from="1558532882372" duration="5111000" />
+      <workItem from="1558571424332" duration="37099000" />
+      <workItem from="1558622127270" duration="2141000" />
+      <workItem from="1558657823339" duration="17464000" />
+      <workItem from="1558679649388" duration="90000" />
+      <workItem from="1558679789547" duration="2442000" />
+      <workItem from="1558682288173" duration="1010000" />
+      <workItem from="1558683352831" duration="1327000" />
+      <workItem from="1558684747310" duration="723000" />
+      <workItem from="1558685529903" duration="6139000" />
+      <workItem from="1558768753180" duration="5570000" />
+      <workItem from="1558776000865" duration="593000" />
+      <workItem from="1558845940624" duration="1636000" />
+      <workItem from="1558848342600" duration="17464000" />
+      <workItem from="1558873032297" duration="78000" />
+      <workItem from="1558875559158" duration="112000" />
+      <workItem from="1558878674736" duration="298000" />
+      <workItem from="1558881650866" duration="200000" />
+      <workItem from="1558917854177" duration="632000" />
+      <workItem from="1558935297782" duration="3159000" />
+      <workItem from="1588765338039" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
